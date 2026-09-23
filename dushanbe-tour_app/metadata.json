@@ -1,0 +1,6 @@
+{
+  "name": "Гид по городу",
+  "description": "Туристическая платформа Dushanbe Tour и Hop-On Hop-Off автобусы по Таджикистану: живая карта, QR-билеты, аудиогид, остановки и админ-панель",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
